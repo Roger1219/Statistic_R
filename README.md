@@ -1,1 +1,1 @@
-This is a statistical script for R studio
+These are statistical scripts for R studio
